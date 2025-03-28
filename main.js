@@ -1,4 +1,4 @@
-const multiplicador  =  ( x ,  y )  =>  {  x  *  y  } ;
+const multiplicador  =  ( x ,  y )  =>  { return  x  *  y  } ;
 
 function  calcularMultiplicacion ( a ,  b , multiplicador ) { 
     let  resultado  =  multiplicador ( a ,  b ) ;
